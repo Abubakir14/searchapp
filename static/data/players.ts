@@ -1,5 +1,24 @@
 export const players = [
-    { id: 1, name: 'Player One', profile: 'Profile of Player One' },
-    { id: 2, name: 'Player Two', profile: 'Profile of Player Two' },
-    // добавьте еще игроков по необходимости
-];
+    { id: 1, name: '1 Player ', profile: '🥇' },
+    { id: 2, name: '2 Player ', profile: '🥈' },
+    { id: 3, name: '3 Player ', profile: '🥉' },
+    { id: 4, name: '4 Player ', profile: '🌟' },
+    { id: 5, name: 'alfa 5', profile: '🚀' },
+    { id: 6, name: 'betta 6', profile: '⚽' },
+    { id: 7, name: 'gamma 7', profile: '🏆' },
+    { id: 8, name: 'Player 8', profile: '😊' },
+    { id: 9, name: 'Player 9', profile: '🎸' },
+    { id: 10, name: 'Player 10', profile: '🎹' },
+    { id: 11, name: 'Player 11', profile: '⛵' },
+    { id: 12, name: 'Player 12', profile: '⚓' },
+    { id: 13, name: '13 Player ', profile: '🏋️' },
+    { id: 14, name: '14 Player ', profile: '⛰️' },
+    { id: 15, name: 'alfa 15', profile: '🎮' },
+    { id: 16, name: 'Andrey', profile: '💡 ' },
+    { id: 17, name: 'Alexey', profile: '🍕 ' },
+    { id: 18, name: 'Alexandr', profile: '🍔 ' },
+    { id: 19, name: 'Igor', profile: '🎓' },
+    { id: 20, name: 'Igofor', profile: '🌍' },
+    { id: 21, name: 'Zlatan', profile: '🚴 ' },
+  ];
+  
